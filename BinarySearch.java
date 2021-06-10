@@ -31,6 +31,6 @@ public static void main(String[] args) {
 		}
 		curr = (max+min)/2;
 	}
-	System.out.println("WOOGOOOO WE GOT IT KABSS  " + curr + " in " + iter + " iterations!!");
+	System.out.println("The element  " + curr + " was found in " + iter + " iterations!!");
 }
 }
